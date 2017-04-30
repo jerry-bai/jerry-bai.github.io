@@ -121,7 +121,7 @@ img {
 	border-radius: 50%;
 	border: 3px solid $white;
 	height: 150px;
-	width: 150px;
+	width: 200px;	/*changed 150 to 200 to account for width of new logo*/
 }
 .author-photo {
     background-color: $white;
@@ -168,7 +168,7 @@ figure {
   }
 }
 svg:not(:root) {
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 // keyboard tag
