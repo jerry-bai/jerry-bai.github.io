@@ -1,12 +1,12 @@
 # Site
 title:              Jerry Bai
 bio:                'I enjoy experiences that challenge me to see differently.'
-description:        "my personal web page"
+description:        "Jerry is currently a full-time test engineer at Panasonic Avionics Corporation."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://jerry-bai.github.io
 
@@ -37,7 +37,7 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:             jerrybai@tutanota.com
 #twitter:            username
 #facebook:           username
 #github-url:         username
@@ -53,7 +53,7 @@ linkedin:          jerry-bai-a53a1360
 #steam:              username
 #dribbble:          username
 #youtube:           username
-youtube-channel:    UC-lJEg0aIWNfXk1gIYUpMOw
+#youtube-channel:    UC-lJEg0aIWNfXk1gIYUpMOw
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
