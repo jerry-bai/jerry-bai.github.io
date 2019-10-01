@@ -1,7 +1,7 @@
 # Site
 title:              Jerry Bai
 bio:                'I enjoy experiences that challenge me to see differently.'
-description:        "Jerry is currently a full-time test engineer at Panasonic Avionics Corporation."
+description:        "Jerry is currently the full-time principal engineer of Panasonic Avionics Corporation."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,7 +38,7 @@ sass:
   #ad-slot:
 #bing-verify:
 email:             jerrybai@tutanota.com
-#twitter:            username
+twitter:            jerrybai123
 #facebook:           username
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
